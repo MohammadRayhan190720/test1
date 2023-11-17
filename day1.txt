@@ -1,2 +1,3 @@
 Day 1 data is added
 data 3 is added by me
+Logo text align center
